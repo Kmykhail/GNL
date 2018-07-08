@@ -5,7 +5,7 @@ The user must create simple main.c and call 'get_next_line':
 ```
 #include "libft/libft.h" //my own library
 #include "fcntl.h" //function 'open'
-#include "get_next_line"
+#include "get_next_line.h"
 
 int main()
 {
