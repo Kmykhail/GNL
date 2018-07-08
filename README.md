@@ -1,10 +1,8 @@
 # GNL(42_project)
 The aim of this project is make a function that returns a line ending with a newline, read from a file descriptor.
 
-The user must call function:
+The user must create simple main.c and call 'get_next_line':
 ```
----main.c---
-
 #include "libft/libft.h" //my own library
 #include "fcntl.h" //function 'open'
 
